@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 从ABAQUS有限元软件中导出 M C K 矩阵  %%
+% 作者：曼妥思加可乐                   %%
+% 学校：北京工业大学                   %%
+% 邮箱：dong.xh@outlook.com           %%
+% 2021年11月20日                      %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clear;
 cd('C:\Users\BJUT\Desktop\MCK_to_Matlab');          %Abaqus文件目录
 filename = 'Job-1-1_MASS2.mtx';
